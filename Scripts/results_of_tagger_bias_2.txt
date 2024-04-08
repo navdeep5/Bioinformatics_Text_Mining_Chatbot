@@ -1,0 +1,23 @@
+F1 Score:
+  Average: 0.7041383928060532
+  Minimum: 0.1428571492433548
+  Maximum: 1.0
+  Standard Deviation: 0.29651860372618166
+Precision:
+  Average: 0.7041383902022618
+  Minimum: 0.14285714285714285
+  Maximum: 1.0
+  Standard Deviation: 0.2965186061780535
+Recall:
+  Average: 0.7041383902022618
+  Minimum: 0.14285714285714285
+  Maximum: 1.0
+  Standard Deviation: 0.2965186061780535
+Jaro-Winkler Score:
+  Average: 0.8880417691013345
+  Minimum: 0.6854723506981075
+  Maximum: 1.0
+  Standard Deviation: 0.11132012985803005
+Successful Outputs: 50
+Failed Outputs: 0
+Total Outputs: 50
