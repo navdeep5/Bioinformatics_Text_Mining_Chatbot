@@ -1,0 +1,11 @@
+TG: triacylglycerol
+LysoPC: lysophospholipid
+PS: phosphatidylserine
+PG: phosphatidylglycerol
+PI: phosphatidylinositol
+DG: diglyceride
+Cer: ceramide
+CL: cardiolipin
+PE: phophatidylethanolamine
+PIP: phosphatidylinositol phosphate
+SM: sphingomyelin

@@ -1,0 +1,7 @@
+Diagnostic
+Prognostic
+Predictive
+Monitoring
+Exposure
+Concentration
+name

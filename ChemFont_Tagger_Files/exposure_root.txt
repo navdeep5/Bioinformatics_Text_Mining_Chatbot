@@ -1,0 +1,23 @@
+Rectal
+Vaginal
+Inhalation
+Intracerebroventricular
+Enteral
+Dermal
+Sublingual
+Intraperitoneal
+Ingestion
+Intracerebral
+Intrathecal
+Intraosseous
+Intraocular
+Oral mucosa
+Parenteral
+Ocular
+Intradermal
+Intracutenous
+Intravesical
+Intramuscular
+Intraarterial
+Gastrointestinal
+Intravenous

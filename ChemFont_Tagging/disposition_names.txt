@@ -1,0 +1,2369 @@
+Chyme
+Adrenal medulla
+Extrinsic component of postsynaptic endosome membrane
+Cellular_component
+Intracellular canaliculus
+Protein storage vacuole
+Mitosome matrix
+Dermis
+Hrd1p ubiquitin ligase ERAD-L complex
+Phosphatidylinositol 3-kinase complex, class III
+Rad6-Rad18 complex
+Methyltransferase complex
+During prophase
+Acetylcholine-gated channel complex
+Asymmetric, glutamatergic, excitatory synapse
+Peripolar cell
+Aryl hydrocarbon receptor complex
+Cardiac myofibril
+U2-type catalytic step 2 spliceosome
+Spectrin
+Extracellular space (Potential)
+Breath
+Integrin alphaM-beta2 complex
+Calcium ion-transporting ATPase complex
+Collagen fibers
+Isoform 2:Secreted protein
+Bacterial flagellum hook
+Nucleus outer membrane
+RNA N6-methyladenosine methyltransferase complex
+Nasal cavity
+May shuttle between nucleus and cytoplasm
+Host lysosome membrane
+Collagen-containing extracellular matrix
+Dehydrodolichyl diphosphate synthase complex
+Eukaryotic 48S preinitiation complex
+Migration to the nucleus when complexed with SMAD4 (By similarity)
+Chylomicron
+Isoform 7:Secreted protein
+I-kappaB/NF-kappaB complex
+Host nucleus matrix
+Isoform 2:Secreted (Potential)
+Hexameric IgM immunoglobulin complex
+TAP complex
+Epicardium
+Sodium channel complex
+Presynaptic active zone
+Cell-substrate junction
+VCP-NPL4-UFD1 AAA ATPase complex
+Cell projection
+Sarcoplasmic reticulum lumen
+Nuclear telomere cap complex
+Ryanodine receptor complex
+Isoform 4:Secreted protein
+Glycerol-3-phosphate dehydrogenase complex
+All organs
+Penis
+Host phagosome membrane
+Lactotropic cell
+Signal recognition particle receptor complex
+Eosinophil granule major basic protein:Cytoplasmic vesicle
+Anchoring junction
+Sweat
+ATAC complex
+Host trans-Golgi network membrane
+Bone
+Liver
+Extrinsic component of synaptic vesicle membrane
+Enriched at the tight junctions of epithelial cells
+Cytoplasmic side of plasma membrane
+Chromaffin granule lumen
+Cerebellar mossy fiber
+Probably by cleavage form the cell surface
+Plastid thylakoid membrane
+Aleurone grain membrane
+T-Lymphocyte
+B cell
+Intracellular protein-containing complex
+GPI-anchor (Potential)
+Isoform Beta:Cytoplasm (Probable)
+Vesicle lumen
+Secretory vesicle (Potential)
+Early endosome
+Box H/ACA telomerase RNP complex
+CHRAC
+Cytoophidium
+Isoform 3:Secreted protein
+Proximal dendrite
+Note=The surface protein is not anchored to the membrane
+AIP1-IRE1 complex
+PCSK9-AnxA2 complex
+Isoform 5:Cell membrane
+SPOTS complex
+Transcription factor TFIIH core complex
+PTW/PP1 phosphatase complex
+Tegument membrane
+Dissociation from chromosomes is observed in late telophase
+Apical tubulobulbar complex
+Musculoskeletal system
+Erythrocyte
+Outer dense fiber
+Golgi cisterna
+BRCA1-A complex
+Angiogenin-PRI complex
+Extracellular vesicle membrane
+Apical distal dendrite
+Cyclin D2-CDK4 complex
+U4/U6 snRNP
+Host nucleolus
+Host mitochondrion membrane
+Desmosome
+Collagen type XIII trimer
+Methylcrotonoyl-CoA carboxylase complex
+Ligament
+MLL1/2 complex
+Acetolactate synthase complex
+At anaphase
+Secretory granule membrane
+CGRP receptor complex
+Cis-Golgi network membrane
+Presynaptic cell membrane
+Axonemal microtubule
+Cytoskeleton
+X chromosome
+CHOP-ATF4 complex
+MMXD complex
+Spinal interneuron
+Ribosome
+Inhibitory synapse
+MRNA cleavage and polyadenylation specificity factor complex
+Paraspeckles
+Host cell surface
+Heterotrimeric G-protein complex
+Matrix side
+Note=Recycles between the cytosol and the Golgi apparatus during interphase
+Cytoplasmic vesicle lumen
+Transcription factor TFIIH holo complex
+Tetraspanin-enriched microdomain
+Outer membrane
+ATPase complex
+U4/U6 x U5 tri-snRNP complex
+Glycosylphosphatidylinositol-mannosyltransferase I complex
+Chloroplast thylakoid lumen
+Muscle
+Cell-cell contact zone
+Climbing fiber
+Melanocyte
+Dynein complex
+Activating signal cointegrator 1 complex
+Extrinsic component of organelle membrane
+Caveola neck
+Esophageal secretion
+Cyanelle thylakoid membrane
+Cytoskeleton (Probable)
+Connective tissue
+Lateral loop
+ESC/E(Z) complex
+Hydrogenosome membrane
+Mature form:Secreted protein
+Brush border membrane
+Target cell cytoplasm
+MSL complex
+Presynaptic endosome
+Podosome
+Note=Moves from the endoplasmic reticulum to the Golgi in the absence of sterols
+Host early endosome
+Isoform 2:Endoplasmic reticulum
+Peptidoglycan-anchor
+Anchored component of the cytoplasmic side of the plasma membrane
+Surface film
+Sertoli cell
+Host nucleus
+Phosphorylase kinase complex
+Spore
+FANCM-MHF complex
+CAMP-dependent protein kinase complex
+Cell envelope
+Clathrin-sculpted gamma-aminobutyric acid transport vesicle membrane
+Cytoskeleton (By similarity)
+Spermatozoon
+Sensory Neuron
+Neuron projection branch point
+Chromosome (Probable)
+Integral component of organelle membrane
+Neuronal dense core vesicle
+Presynaptic active zone cytoplasmic component
+Platelet
+Vacuole membrane
+Mannosyltransferase complex
+Null
+Cyclin E2-CDK2 complex
+Protein serine/threonine phosphatase complex
+Mitochondrial permeability transition pore complex
+Cytoplasmic side of endoplasmic reticulum membrane
+Glutamate-cysteine ligase complex
+Scrib-APC-beta-catenin complex
+Small intestine
+Note=Cytoplasmic in the absence of ligand
+Peribacteroid membrane
+Extrinsic component of omegasome membrane
+Dendrite cytoplasm
+Note=Recruited to the plasma membrane upon epidermal growth factor-dependent activation of phosphatidylinositol 4
+Multivesicular body, internal vesicle lumen
+At the onset of prophase
+Inward rectifier potassium channel complex
+Calcium channel complex
+CORVET complex
+Hypodermis
+Nuclear pore nuclear basket
+NatC complex
+4-galactosyltransferase 1:Secreted
+Ripoptosome
+Extrinsic component of external side of plasma membrane
+Microneme
+MIS12/MIND type complex
+Isoform 1:Membrane
+Platelet alpha granule membrane
+Hydrogenosome
+RNA-directed RNA polymerase nsP4:Host endosome membrane
+Duct cell
+Basal tubulobulbar complex
+Isoform A:Nucleus
+Isoform C:Nucleus
+GPI-anchor transamidase complex
+Hepatic tissue
+Postsynaptic early endosome
+Microsomes
+MRNA cap methyltransferase complex
+Note=May be found in the nucleus
+During HIV-1 infection
+Isoform H:Cell membrane
+Glycogen granule
+Microtubule bundle
+Protein-lipid complex
+Telomere (Probable)
+Cell and elements
+G-protein beta/gamma-subunit complex
+U2-type post-mRNA release spliceosomal complex
+Endolysosome
+Prevacuolar compartment
+Isoform 2:Membrane
+Growth hormone-binding protein:Secreted
+Tooth
+Asymmetric synapse
+Neuronal cell body membrane
+RNA polymerase I complex
+Endodeoxyribonuclease complex
+Multi-pass membrane protein (By similarity)
+P-body
+Appendix
+Pronucleus
+Tricarboxylic acid cycle enzyme complex
+Muscle cell
+Lysosome (Probable)
+Organellar chromatophore thylakoid lumen
+Note=Linked to the membrane via Band 4
+Endoplasmic reticulum quality control compartment
+Peripheral membrane protein (Potential)
+Isoform 7:Membrane
+Extrinsic component of postsynaptic membrane
+Pml body
+Autolysosome membrane
+ATP-binding cassette (ABC) transporter complex
+Interphotoreceptor matrix
+Ileum
+Chondrocyte
+Langerhans cell
+Sebum
+Dendritic spine head
+Aleurone grain
+Pollen coat
+Host cytosol
+Electron transfer flavoprotein complex
+Sperm fibrous sheath
+Adipose tissue
+Host pathogen-containing vacuole membrane
+Semaphorin receptor complex
+Phosphatidylinositol 3-kinase complex, class IA
+Melanosome membrane
+Cell
+Erythroid Cells
+Mitochondrial ribonuclease P complex
+Merkel cell
+Nuclear periphery
+Paraferritin complex
+Phosphatidylinositol 3-kinase complex, class IB
+Membrane
+Integral component of mitochondrial outer membrane
+SMAD protein complex
+Synovial fluid
+Bulbourethral gland
+Host nucleus (Potential)
+Forespore membrane
+Prevacuolar compartment membrane
+Isoform A:Cell membrane
+HOPS complex
+Melanosome lumen
+Manchette
+CMG complex
+Serous fluid
+Phagocytic vesicle lumen
+Transferrin receptor protein 1
+6-phosphofructokinase complex
+Cytoplasmic granule lumen
+While the N-terminal part associates with the plasma membrane (By similarity)
+Bile
+Endothelial microparticle
+Telomerase catalytic core complex
+Microvillus membrane
+Platelet alpha granule
+Mre11 complex
+Tendon
+Beige fat cell
+Cajal-Retzius cell
+Golgi stack membrane
+Mitosome outer membrane
+Nucleus intermembrane space
+U6 snRNP
+Plastid outer membrane
+Nuclear pore cytoplasmic filaments
+Inflammasome
+Glycosome membrane
+Loose connective tissue
+Tumor necrosis factor
+SCF ubiquitin ligase complex
+Nucleus envelope
+Small-subunit processome
+Nem1-Spo7 phosphatase complex
+Host nucleus inner membrane
+Titin-telethonin complex
+Myelin sheath adaxonal region
+Sperm head plasma membrane
+Golgi-associated vesicle
+Distal axon
+Filamentous actin
+Succinate-CoA ligase complex (GDP-forming)
+Ribonucleoprotein complex
+Dendritic tree
+Chlorosome
+Associates with lysosome membranes
+Esterosome lumen
+Lipid-anchor (Probable)
+Isoform 9:Cell membrane
+Podocyte
+Rough endoplasmic reticulum membrane
+Platelet dense tubular network
+Transmembrane transporter complex
+Isoform 7:Cytoplasm
+Mitotic spindle pole
+Host synapse
+Capsule
+Glycosome
+Meiotic spindle
+Preribosome, small subunit precursor
+Oxoglutarate dehydrogenase complex
+Basophil
+CHOP-ATF3 complex
+Membrane raft
+White matter
+Nuclear origin of replication recognition complex
+Integral component of synaptic vesicle membrane
+Photoreceptor ribbon synapse
+Extracellular matrix (Probable)
+Schmidt-Lanterman incisure
+Platelet alpha granule lumen
+Aminoacyl-tRNA synthetase multienzyme complex
+Aggresome
+Integral component of autophagosome membrane
+Amniotic Fluid
+Isoform 2:Nucleus
+Spindle pole
+Host microsome
+Processed matrix metalloproteinase-24:Secreted
+Note=Constituent of the scaffolding of the cornified envelope
+Endoplasmic reticulum membrane (Potential)
+Slit diaphragm
+Serum
+Eye
+Beta-catenin-TCF7L2 complex
+Integrin alphaL-beta2 complex
+Adrenomedullin receptor complex
+Host endoplasmic reticulum-Golgi intermediate compartment
+Isoform 12:Nucleus
+Microsome
+ATR-ATRIP complex
+Red Pulp
+Endocytic vesicle membrane
+Proton-transporting ATP synthase complex
+RNA-directed RNA polymerase NS5:Host endoplasmic reticulum membrane
+Host mitochondrion inner membrane
+Epidermis
+Nerve cell
+Parkin-FBXW7-Cul1 ubiquitin ligase complex
+Female germ cell nucleus
+Phosphatidylinositol 3-kinase complex, class III, type II
+DNA-dependent protein kinase complex
+Multivesicular body lumen
+Sumoylated E2 ligase complex
+Extrinsic component of phagophore assembly site membrane
+Umbilical cord
+Nuclear bag cell
+System
+Cyanelle thylakoid lumen
+Isoform Beta:Apical cell membrane
+Xenin:Secreted
+Fibroblast
+External side of apical plasma membrane
+Postsynaptic specialization
+Extrinsic component of postsynaptic density membrane
+Growth cone filopodium
+Cyclin A2-CDK2 complex
+Mitochondrion (Probable)
+Cytosol (Potential)
+Microneme membrane
+Enteric Gilial cell
+Ref
+Ascites Fluid
+Hemoglobin complex
+Vascular Smooth Muscle Cell
+Complement component C1q complex
+Vesicle membrane
+Pericardial Effusion
+Pericyte
+Colocalizes with HTR2C on the apical membrane of epithelial choroid plexus cells
+Dendritic spine cytoplasm
+Zona pellucida
+Chloroplast nucleoid
+Central Nervous System
+Postsynaptic recycling endosome membrane
+Mitochondrion nucleoid
+Platelet dense granule lumen
+Intrinsic component of plasma membrane
+Single-pass type IV membrane protein (By similarity)
+Axon initial segment
+Intermediate-density lipoprotein particle
+Postsynaptic endosome
+Spliceosomal snRNP complex
+Apicolateral cell membrane
+NMS complex
+Isoform B:Cytoplasm
+Axon terminus
+109 kDa form:Secreted
+Serine/threonine protein kinase complex
+Extrinsic component of Golgi membrane
+Nucleotide-excision repair complex
+Host trans-Golgi network
+Host cell inner membrane
+Trachea
+Integral component of synaptic membrane
+3-mannosyl-glycoprotein 4-beta-N- acetylglucosaminyltransferase A soluble form:Secreted
+MRNA cap binding complex
+Dynein axonemal particle
+Lytic vacuole
+Hematopoietic and lymphatic system
+Migrates to the nucleus when complexed with R- SMAD
+Cellular thylakoid membrane
+Prostasin heavy chain:Secreted
+Set1C/COMPASS complex
+TRNA methyltransferase complex
+Spore wall
+Chloroplast membrane
+Processed beta-1
+Chlorosome envelope
+Spinal cord
+Storage vacuole
+Nose
+1
+Peroxisome
+Exon-exon junction complex
+Mitochondrion intermembrane space (Potential)
+Isoform 6:Cell membrane
+Note=Associated with membranes
+Pinceau fiber
+Juxtaparanode region of axon
+Cyanelle intermembrane space
+Parallel fiber to Purkinje cell synapse
+Intracellular ferritin complex
+Note=In the cytoplasm in the absence of ligand
+Host cell envelope
+Paranode region of axon
+RNA-directed RNA polymerase complex
+Spectrin-associated cytoskeleton
+Medium Spiny Neuron
+Gastric juice
+Jejunum
+Spore polar tube
+Host lysosome
+Spore outer membrane
+Autophagosome
+Peroxisome matrix
+Photoreceptor rod cell
+Cilium
+Pancreatic juice
+Thymus
+Embryonic fluid
+Contractile ring
+Proheparin-binding EGF-like growth factor:Cell membrane
+Phagosome lumen
+Isoform Short:Cell membrane
+Hemidesmosome
+Single-pass type III membrane protein (Potential)
+Plasma membrane proton-transporting V-type ATPase complex
+Chromatin silencing complex
+DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) complex
+Postsynaptic endocytic zone
+EKC/KEOPS complex
+Platelet dense tubular network membrane
+Note=In neurons
+Perispore
+Processed neural cell adhesion molecule L1- like protein:Secreted
+Deuterosome
+Fanconi anaemia nuclear complex
+Isoform 5 is found exclusively in the nucleolus
+Also secreted
+PiP-body
+Also associated with podocyte apical plasma membrane
+Host nucleoplasm
+Palmitoyltransferase complex
+Mitochondrion intermembrane space
+Glycosome matrix
+Isoform 5:Mitochondrion
+Where it may trigger apoptosis
+Mitochondrion-derived vesicle
+Nerve
+Note=In interphase cells
+Synapse
+Grb2-EGFR complex
+Isoform 9:Cytoplasm (Probable)
+During apoptosis
+Cul4A-RING E3 ubiquitin ligase complex
+Ooplasm
+Membrane microdomain
+Katanin complex
+Pericentriolar material
+Ino80 complex
+Cvt vesicle membrane
+Clathrin-coated vesicle lumen
+Simple epithelium
+Cytochrome complex
+Azurophil granule membrane
+Gallbladder
+Receptor complex
+Attachment organelle
+Isoform 1:Cell membrane
+Sublingual gland
+NADH dehydrogenase complex
+In polarized epithelial cells
+MOZ/MORF histone acetyltransferase complex
+Calcium- and calmodulin-dependent protein kinase complex
+Phragmoplast
+Isoform 2A:Mitochondrion
+Basolateral plasma membrane
+HFE-transferrin receptor complex
+Rab-protein geranylgeranyltransferase complex
+Tenascin complex
+Beta-catenin destruction complex
+Breast milk
+Prp19 complex
+Lipid-anchor
+Tertiary granule membrane
+Macula densa cell
+Cell body
+Cortical actin cytoskeleton
+Parasitophorous vacuole membrane
+Chloride channel complex
+Duodenum
+Bronchus
+Etioplast stroma
+Note=Isoform 1 is found predominantly in cytoplasm but appears to shuttle between the cytoplasm and nucleus
+Brush Border Cell
+Myelin sheath
+Sarcoplasm
+Host multivesicular body
+Plasma
+Actomyosin
+Chaperone complex
+Female pronucleus
+Preautophagosomal structure
+Cellular chromatophore membrane
+Plasmodesma
+Host nucleus membrane
+Condensed chromosome, centromeric region
+Cementoblast
+Mitochondrial respirasome
+Early endosome lumen
+Mitochondrion matrix (Probable)
+Microsome membrane
+May be secreted by a non-classical secretory pathway and associate with the cell surface
+DNA polymerase complex
+Voltage-gated sodium channel complex
+Outer kinetochore
+Adrenal Gland
+Acidocalcisome
+Myosin complex
+Isoform 6:Secreted protein
+Magnetosome lumen
+PCSK9-LDLR complex
+CHOP-C/EBP complex
+Folliculostellate cell
+SNARE complex
+Dense connective tissue
+Inner mitochondrial membrane
+Nucleus (Potential)
+L-cysteine desulfurase complex
+Chloroplast outer membrane
+Alpha Cell
+Corticotropic cell
+Integrin complex
+Photoreceptor cell cilium
+The C-terminal 64 kDa cleavage product translocates to the cytoplasm
+Respiratory system
+Blood Platelet
+M line
+U12-type spliceosomal complex
+Parallel fiber
+Peptidase complex
+Isoform USP25m:Cytoplasm
+Endoplasmic reticulum
+Secreted
+Elastic fiber
+Sweet taste receptor complex
+Autolysosome lumen
+C30:Cytoplasm
+Gamma-secretase complex
+Astral microtubule
+Cleavage furrow
+Alveolar lamellar body membrane
+In the retina
+Extravirionic side
+Chromoplast
+Transcription factor TFIIK complex
+Eye Lens
+Cilium axoneme
+Nucleolus fibrillar center
+Chloroplast
+Nucleus lamina
+Virion membrane
+Cytoplasmic vesicle membrane
+Primary cell wall
+Note=Associated with lipid rafts
+Low-density lipoprotein receptor-related protein 1 intracellular domain:Cytoplasm
+The proteolytic processed protein is secreted (By similarity)
+Hematopoietic stem cell
+Stellate Cell
+Nucleosome
+Clitoris
+Procentriole
+Protease inhibitor complex
+Cyclin K-CDK13 complex
+Isoform MBP-1:Nucleus
+Isoform 1:Mitochondrion
+Isoform 3:Mitochondrion membrane
+TIM23 mitochondrial import inner membrane translocase complex
+Protein storage vacuole lumen
+Phosphatidylinositol 3-kinase complex, class III, type I
+Lysosome membrane
+Weibel-Palade body
+Delta DNA polymerase complex
+Macropinosome
+Organellar chromatophore intermembrane space
+Vaginal discharge
+HULC complex
+Host rough endoplasmic reticulum membrane
+Phosphopantothenoylcysteine decarboxylase complex
+Motor Neuron
+Cell junction
+Calyx of Held
+Recycling endosome
+Anchored component of synaptic vesicle membrane
+Golgi apparatus (Probable)
+Protein phosphatase type 2A complex
+Soluble:Lysosome lumen
+Endoplasmic reticulum chaperone complex
+Interleukin-23 receptor complex
+White Pulp
+Central region of growth cone
+IPAF inflammasome complex
+Endocytic vesicle lumen
+Aleurone grain lumen
+Centriolar subdistal appendage
+Kinocilium
+Preautophagosomal structure membrane
+Isoform 4:Cell membrane
+Axolemma
+Isoform sFlt1:Secreted
+Islets of Langerhans Cell
+Cardiomyocyte
+Bacterial flagellum basal body
+Leading to condensin's association with chromosome arms and to chromosome condensation
+Interleukin-12 receptor complex
+Extrinsic component of autophagosome membrane
+Y chromosome
+RNA polymerase II transcription regulator complex
+Isoform SCP2:Mitochondrion (Probable)
+Glyoxysome membrane
+Satellite cell
+Cyanelle
+Element
+STING complex
+Bladder
+Chloroplast inner membrane
+Host perinuclear region
+Cytosolic aryl hydrocarbon receptor complex
+Uniplex complex
+Gamma Cell
+Megakaryocyte
+Hepatic Stellate Cell
+Isoform SH-iPLA2:Cytoplasm
+Cerebrum
+Centriolar satellite
+Intrinsic component of Golgi membrane
+Alpha-beta T cell receptor complex
+Urinary system
+Golgi stack
+SAGA complex
+Potassium:proton exchanging ATPase complex
+CCAAT-binding factor complex
+Mitochondrial proton-transporting ATP synthase complex, catalytic sector F(1)
+Intermediate filament cytoskeleton
+Vaginal discharge fluid
+CAK-ERCC2 complex
+Cuticular plate
+Tissue_name
+Beta-catenin-TCF complex
+Signal recognition particle, endoplasmic reticulum targeting
+Transcription export complex
+Basolateral cell membrane
+Integrin alphaX-beta2 complex
+Isoform 2:Nucleus membrane
+Peroxisome membrane
+Inhibin-betaglycan-ActRII complex
+Isoform 3:Membrane
+Gtr1-Gtr2 GTPase complex
+Note=Associated with peroxisomal membranes
+Intercalated disc
+Alpha9-beta1 integrin-vascular cell adhesion molecule-1 complex
+Host basolateral cell membrane
+Glycine cleavage complex
+Lipid-anchor (Potential)
+Somatotropic cell
+Forespore intermembrane space
+Rhoptry
+Methylosome
+Rectum
+Intermembrane side (Potential)
+Cartwheel cell
+Microfibril
+Note=Endosomal or lysosomal (Long isoform) and to a lesser extent on the cell surface (Short isoform)
+Cytotoxic T cell
+Symplast
+Multi-pass membrane protein (Probable)
+Isoform Short:Secreted
+Chromaffin cell
+Endoplasmic reticulum-Golgi intermediate compartment membrane
+Host nucleus lamina
+Leading edge of lamellipodium
+Filopodium membrane
+Proximal neuron projection
+Cardiac muscle
+NMDA selective glutamate receptor complex
+Gonad
+AMPA glutamate receptor complex
+Photoreceptor inner segment
+Specific granule membrane
+Isoform 6:Nucleus
+RISC complex
+Nuclear pore complex (Probable)
+Mitochondrial membrane
+Integral component of postsynaptic membrane
+BMP receptor complex
+Note=Localized predominantly on the plasma membrane
+Amino acid transport complex
+Voltage-gated calcium channel complex
+High-density lipoprotein particle
+Membrane protein complex
+Sperm head
+RNA polymerase III complex
+Prostaglandin E synthase 2 truncated form:Cytoplasm
+Neurofilament
+Intrinsic component of membrane
+Host pathogen-containing vacuole lumen
+Cellular Cytoplasm
+Vesicle coat
+IgG immunoglobulin complex
+Oligosaccharyltransferase III complex
+Gap junction
+Autophagosome lumen
+Apolipoprotein B mRNA editing enzyme complex
+Sodium:potassium-exchanging ATPase complex
+Gamma-tubulin complex
+Basement membrane
+Cytolytic granule membrane
+Histone pre-mRNA 3'end processing complex
+Bacterial microcompartment
+Proton-transporting two-sector ATPase complex
+MCM8-MCM9 complex
+NLRP1 inflammasome complex
+Perinuclear endoplasmic reticulum membrane
+Forespore
+Host cell junction
+SMN-Sm protein complex
+Intercellular canaliculus
+Spore membrane
+Mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)
+Cyclin D3-CDK4 complex
+Microsome membrane (Potential)
+Isoform 3:Nucleus
+Protein complex involved in cell-matrix adhesion
+Protein-DNA complex
+Ribose phosphate diphosphokinase complex
+Note=Colocalizes with RET to the cell periphery and in some cytoskeletal components
+Protein N-acetylglucosaminyltransferase complex
+Polypeptide N- acetylgalactosaminyltransferase 1 soluble form:Secreted
+Piccolo NuA4 histone acetyltransferase complex
+Chloroplast thylakoid membrane
+Presynaptic endocytic zone
+Mitosome envelope
+Ependymal Cell
+Astrocyte end-foot
+Axonally transported to the nerve terminals
+Distributed to the perinuclear region
+Virion tegument
+Replication fork
+Isoform p60-HCK:Membrane
+Thalamus
+7SK snRNP
+Clathrin-sculpted acetylcholine transport vesicle membrane
+Specific granule
+Extrinsic component of cytoplasmic side of plasma membrane
+Lysosomal HOPS complex
+Nucleus
+Trichocyst
+Beta-catenin-ICAT complex
+CD40 receptor complex
+Esophagus
+Postsynaptic cytosol
+Sperm flagellum
+Alphav-beta3 integrin-PKCalpha complex
+Host cytoplasmic vesicle
+Spot adherens junction
+Ovarian follicle cell
+Extracellular
+3-methylcrotonyl-CoA carboxylase complex, mitochondrial
+Tonsil
+G protein-coupled serotonin receptor complex
+MHC class I protein complex
+Lumenal side (Potential)
+Keratinocyte
+Tissues Containing Microbial Flora
+Cell body fiber
+Thyroid gland
+Synaptonemal complex
+PICln-Sm protein complex
+Immunological synapse
+Methionine adenosyltransferase complex
+Nonhomologous end joining complex
+Semen
+GATOR1 complex
+Isoform 1E:Secreted (Probable)
+Transcription regulator complex
+Isoform Beta:Cell junction
+Septin cytoskeleton
+Mitochondria-associated endoplasmic reticulum membrane
+COPII vesicle coat
+Goblet cell
+Golgi medial cisterna membrane
+Sex chromatin
+Perichromatin fibrils
+Hippocampus
+Transcription factor TFIIIC complex
+Actin cytoskeleton
+Isoform Cytoplasmic:Cytoplasm
+Nucleus (Probable)
+Intracytoplasmic membrane
+GLI-SUFU complex
+NADPH oxidase complex
+Platelet dense granule
+Respiratory chain complex I
+Mitochondrion (Potential)
+Processed cyclic AMP-responsive element- binding protein 3-like protein 3:Nucleus
+GABA-A receptor complex
+Hippocampal mossy fiber
+Leading edge membrane
+Ciliary rootlet
+Embryo
+Retina horizontal cell
+Presynaptic active zone membrane
+Granular component
+Glial limiting end-foot
+Microglia
+Organellar chromatophore
+Mitochondrion envelope
+Alveolar lamellar body
+Note=May be released into the extracellular fluid
+Mitochondrial DNA-directed RNA polymerase complex
+Integral component of plasma membrane
+Cell-cell junction
+Granular vesicle
+B cell receptor complex
+Mitochondrial inner membrane
+Invadopodium
+Seminal fluid
+Host apical cell membrane
+Dense core granule
+Trans-Golgi network transport vesicle membrane
+Cyclin B1-CDK1 complex
+Target cell
+Accessory Cell
+Succinate-CoA ligase complex (ADP-forming)
+Glial cell projection
+Plastid membrane
+DNA ligase III-XRCC1 complex
+Note=Cycles between the endoplasmic reticulum and the Golgi
+Bacterial flagellum filament
+UBC13-UEV1A complex
+Retromer complex
+Kinetoplast
+Host membrane
+TRAMP complex
+Immunoglobulin complex, circulating
+Urethra
+Transferase complex
+Bud
+Intermediate filament
+Tongue
+Nuclear chromosome
+Cilium membrane
+Cell membrane (Probable)
+RecQ family helicase-topoisomerase III complex
+Sec61 translocon complex
+Toll-like receptor 2-Toll-like receptor 6 protein complex
+Cyclin-dependent protein kinase activating kinase holoenzyme complex
+Isoform 3:Cytoplasm
+Nucleus inner membrane
+Note=Colocalizes with endosomes (By similarity)
+Pseudopodium
+U5 snRNP
+Amyloplast membrane
+Nuclear MIS12/MIND complex
+Stereocilium
+Ovary
+The transmembrane domain is anchored in endoplasmic reticulum membrane
+Prolamellar body
+Host nucleus envelope
+HCN channel complex
+Lateral element
+Intestinal secretion
+Delta Cell
+Centriole
+Lumenal side of lysosomal membrane
+Isoform IB:Nucleus membrane
+Gonadotropic cell
+Nuclear pore complex
+Cortical granule
+Isoform 2:Endoplasmic reticulum (Probable)
+Pinealocyte
+Cytolytic granule lumen
+Postsynaptic density membrane
+Host microsome membrane
+Myelin membrane
+Menstrual fluid
+Nucleotide-excision repair factor 2 complex
+Bronchiole
+Cyanelle membrane
+Hrd1p ubiquitin ligase complex
+Intrinsic component of mitochondrial outer membrane
+Cell surface
+Endoplasmic reticulum exit site
+Cell cortex region
+Satellite glial cell
+Heterochromatin
+Envelope protein E:Virion (Potential)
+Derlin-1 retrotranslocation complex
+Note=UCRP conjugates seem to be noncovalently associated with the intermediate filaments and distributed in a punctate pattern
+Centromere
+Integral component of the cytoplasmic side of the plasma membrane
+Golgi apparatus membrane
+Dendrite
+Mitotic spindle
+Note=Almost completely in nucleus in cells exposed to heat shock or 10% dimethyl sulfoxide
+Insulin receptor complex
+Macrophage migration inhibitory factor receptor complex
+Cardiovascular system
+Ire1 complex
+Connexin complex
+Cell inner membrane
+Low-density lipoprotein particle
+Contractile vacuole membrane
+Filopodium
+RNA-directed RNA polymerase/triphosphatase/helicase p90:Host endosome membrane
+Chloroplast envelope
+Isoform 2:Lysosome lumen
+Vacuolar proton-transporting V-type ATPase, V0 domain
+Calyx
+Single-pass type I membrane protein (Potential)
+Plasma membrane protein complex
+GABA receptor complex
+SREBP-SCAP complex
+Eukaryotic translation initiation factor 2 complex
+Cvt vesicle
+MLL3/4 complex
+Lamellar body
+Isoform 2:Secreted protein (Potential)
+Spindle pole body
+Testicle
+Host cell
+Mitochondrial degradosome
+Filopodium tip
+Single-pass type I membrane protein (By similarity)
+H4 histone acetyltransferase complex
+Anammoxosome membrane
+ENoSc complex
+Fascia adherens
+Polarized hepatoma HepG2 cells
+Chloroplast thylakoid
+CatSper complex
+Helper T cell
+BRCA1-C complex
+Membrane coat
+Box H/ACA snoRNP complex
+Collagen trimer
+Isoform 5:Secreted protein
+Endothelial cell
+Nitric-oxide synthase complex
+Membrane (Potential)
+Salivary gland
+Proton-transporting two-sector ATPase complex, catalytic domain
+Phagosome membrane
+Endosome (By similarity)
+Note=Associated with intermediate filaments
+Host secretory vesicle
+Note=Mainly cytoplasmic
+Host cytoplasm
+COPI vesicle coat
+Eukaryotic translation elongation factor 1 complex
+Podosome membrane
+Target membrane
+Cytoplasm (Probable)
+ATF1-ATF4 transcription factor complex
+Supramolecular fiber
+Biological location
+Anchored component of membrane
+Adrenal medula
+Host peroxisome
+Integral component of postsynaptic specialization membrane
+Isoform Long:Endosome
+Isoform 11:Cell membrane
+Dopaminergic synapse
+Mural Cell
+Intracellular membrane-bounded organelle
+Serum form:Secreted
+Note=Cytoplasmic in adenomas and carcinomas
+IRE1-TRAF2-ASK1 complex
+Flagellum membrane
+PAK-2p34:Nucleus
+Vacuolar proton-transporting V-type ATPase, V1 domain
+Platelet dense granule membrane
+Intrinsic component of endosome membrane
+Recycling endosome lumen
+Integral component of cytoplasmic side of endoplasmic reticulum membrane
+Azurophil granule
+Nuclear lumen
+NLS-dependent protein nuclear import complex
+RNA nuclear export complex
+Endocytic vesicle
+R2TP complex
+ER ubiquitin ligase complex
+Isoform 3:Cell surface
+Microtubule organizing center
+Proton-transporting V-type ATPase, V0 domain
+Mitosome inner membrane
+Basal cell membrane
+Glycine-gated chloride channel complex
+Host synaptic vesicle membrane
+Cis-golgi network
+Host pathogen-containing vacuole
+Granulocyte macrophage colony-stimulating factor receptor complex
+Contractile vacuole lumen
+Mitochondrial proton-transporting ATP synthase complex
+Early phagosome
+Interleukin-6 receptor complex
+Hair
+Spindle microtubule
+Most of the condensin complex is associated with the chromatin
+Immunoglobulin complex
+Cell outer membrane
+Note=Cytoplasmic in non-mucinous colorectal carcinoma
+Leydig cell
+In non-polarized HepG2 cells
+Vulva
+Condensed chromosome
+Note=Associated with the cytoskeleton
+Deferent duct fluid
+Chloroplast stroma
+Alpha-1
+Ciliary inversin compartment
+Cone photoreceptor outer segment
+Golgi apparatus lumen
+Integral component of peroxisomal membrane
+Acrosomal matrix
+Apical junction complex
+Nucleus (By similarity)
+Axon
+Centrosome
+Very-low-density lipoprotein particle
+Pyruvate dehydrogenase complex
+GMP reductase complex
+Rhoptry lumen
+CA3 pyramidal cell dendrite
+Heart
+COPII-coated vesicle
+Chloroplast intermembrane space
+Integral component of mitochondrial membrane
+Shc-EGFR complex
+Seminal vesicle
+Beneath the canalicular actin cytoskeleton
+Golgi medial cisterna
+Ganglion
+Lysosome
+Microtubule cytoskeleton
+Laminin-3 complex
+Isoform Mitochondrial:Mitochondrion
+Stereocilium bundle
+Vestibular Hair Cell
+TM:Cell membrane
+Lewy body
+COPI-coated vesicle membrane
+Golgi trans cisterna membrane
+Organellar chromatophore outer membrane
+Isoform 2:Cell membrane
+Apoplast
+Multi-pass membrane protein (Potential)
+Ribbon synapse
+Chromosome, subtelomeric region
+Gem
+Tear
+Chylomicron remnant
+Golgi stack lumen
+Anchored component of postsynaptic density membrane
+Hippocampal mossy fiber to CA3 synapse
+Lymph node
+Capillary
+Contractile vacuole
+Focal adhesion (Probable)
+Odontoblast
+Endothelium (Fibroblasts)
+Pore complex
+Cyclin K-CDK12 complex
+Note=At cell-cell contacts in lung epithelial cells
+Thyrotropic cell
+Cell septum
+Isoform PDE7A2:Cytoplasm
+Actomyosin contractile ring
+Urine
+Mucin-1 subunit beta:Cell membrane
+Nucleolus organizer region
+Isoform Membrane-bound:Cell membrane
+Extracellular membrane-bounded organelle
+Cilium basal body
+Secondary cell wall
+Where cohesin complexes remain
+Kinetochore
+Oxyphil cell
+Endocrine system
+Peroxisomal membrane
+Mitochondrial crista
+Acrosome membrane
+XPC complex
+Host smooth endoplasmic reticulum
+Ubiquinone biosynthesis complex
+Membrane-bounded organelle
+Organelle inner membrane
+Schaffer collateral - CA1 synapse
+Chromocenter
+Postsynaptic recycling endosome
+Synaptobrevin 2-SNAP-25-syntaxin-1a-complexin II complex
+Except at centromeres
+Osteoclast
+Calpain complex
+White fat cell
+Inward rectifying potassium channel
+Transporter complex
+Intermembrane side
+Cellular thylakoid
+Chromosome passenger complex
+Neuron
+Host mitochondrion outer membrane
+Chromosome
+Chromoplast membrane
+Terminal cisterna lumen
+Smooth endoplasmic reticulum
+Dendrite terminus
+NatA complex
+Gamma DNA polymerase complex
+Cul5-RING ubiquitin ligase complex
+Histone acetyltransferase complex
+Lewy body core
+Bushy Cell
+BRISC complex
+Basal Ganglia
+B-WICH complex
+Mitochondrial isocitrate dehydrogenase complex (NAD+)
+Neuronal cell body
+Olfactory basal cell
+IRE1-RACK1-PP2A complex
+Multivesicular body membrane
+UBC13-MMS2 complex
+GTPase activator complex
+Host cis-Golgi network
+Stratified epithelium
+Endoplasmic reticulum (Probable)
+Intrinsic component of mitochondrial inner membrane
+Ficolin-1-rich granule membrane
+MAML1-RBP-Jkappa- ICN1 complex
+Cytosolic ribosome
+Mitotic checkpoint complex
+Bud membrane
+Spindle pole centrosome
+Prevacuolar compartment lumen
+GTPase complex
+Cyclin A1-CDK2 complex
+Junctional sarcoplasmic reticulum membrane
+Chandelier cell
+Most of cohesin complexes dissociate from chromatin probably because of phosphorylation by PLK
+Protein kinase CK2 complex
+SUMO ligase complex
+Vein
+Smooth endoplasmic reticulum membrane
+Acrosome inner membrane
+Isoform 12:Secreted protein
+Hippocampal mossy fiber expansion
+Holliday junction resolvase complex
+Endoplasmic reticulum (Potential)
+Catenin complex
+VCP-NSFL1C complex
+Esterosome
+Magnetosome membrane
+Pharynx
+Precursor form:Cell membrane
+G protein-coupled receptor dimeric complex
+Virion
+Diencephalon
+When activated
+Hepatocytes
+Host chloroplast envelope
+Multivesicular body, internal vesicle
+Isoform 2:Lysosome
+Birbeck granule
+Interleukin-18 receptor complex
+Focal adhesion
+Cecum
+Dense fibrillar component
+Spore core
+Multivesicular body
+Amyloplast
+Mast cell granule
+Polysomal ribosome
+9+2 motile cilium
+Single-pass membrane protein
+Lipoprotein particle
+Isoform 4:Cytoplasmic vesicle
+Isoform 8:Secreted protein
+Fetus
+Slime layer
+T-cell surface glycoprotein CD1e
+Prostate
+Spermatozoa
+Septate junction
+Zeta DNA polymerase complex
+Node of Ranvier
+Host endoplasmic reticulum
+Protein-containing complex
+Isoform 5:Nucleus
+Cyclin D1-CDK4 complex
+Haptoglobin-hemoglobin complex
+Striatum
+Nuclear inclusion body
+Cytoplasmic side of early endosome membrane
+Procollagen-proline 4-dioxygenase complex
+But localizes to the extracellular surface through its binding to TM (By similarity)
+Nuclear stress granule
+9+0 non-motile cilium
+Amylin receptor complex 2
+Extrinsic component of mitochondrial inner membrane
+Terminal cisterna
+Myosin II complex
+Ruffle
+AP-3 adaptor complex
+Vena cava
+Ureter
+Extra-organism
+Carboxysome
+Transcription factor TFIID complex
+A subpopulation of the complex however remains associated with chromosome foci in interphase cells
+Axoneme
+Clathrin-coated vesicle
+Host mitochondrion
+Oocyte
+Potential hairpin-like structure in the membrane
+Endolymph
+Synaptosome
+Protein kinase complex
+Adipocyte
+A band
+Adherens junction
+Microtubule associated complex
+RNA polymerase II, core complex
+ERBB4 intracellular domain:Nucleus
+TIM22 mitochondrial import inner membrane insertion complex
+Host cell wall
+Cytoplasmic vesicle
+Ovarian cortex
+Mitochondrial proton-transporting ATP synthase, catalytic core
+AnxA2-p11 complex
+Organelle membrane
+Spore cortex
+Sarcomere
+Tears
+Host vacuole
+Virion-encapsidated in absence of HIV-1 VIF
+AP-2 adaptor complex
+Isoform 1:Cytoplasm
+Septin complex
+Basolateral part of cell
+Clathrin complex
+Host
+Ficolin-1-rich granule lumen
+Host extracellular space
+Pleural fluid
+Biofluid and excreta
+Wnt-Frizzled-LRP5/6 complex
+Smooth muscle
+Isoform 19:Secreted
+Isoform 10:Secreted protein
+Red skeletal muscle cell
+Wnt signalosome
+Sarcoplasmic reticulum
+Oligosaccharyltransferase complex
+Clathrin coat of trans-Golgi network vesicle
+Centralspindlin complex
+Ciliary basal body
+Intestinal secretion fluid
+BORC complex
+Cytoplasmic
+PcG protein complex
+Encapsulin nanocompartment
+Integral component of lumenal side of endoplasmic reticulum membrane
+I band
+Scrotum
+Actin patch
+Potassium ion-transporting ATPase complex
+Leading to the dissociation of the complex from chromosomes
+Secretory vesicle
+Cyanelle envelope
+Lugaro cell
+Once cleaved by caspase-3
+Ribonuclease H2 complex
+Rough endoplasmic reticulum lumen
+U2-type precatalytic spliceosome
+Dystrophin-associated glycoprotein complex
+Periciliary membrane compartment
+Lung
+Single-pass type II membrane protein (Probable)
+Cytosolic small ribosomal subunit
+Synaptic cleft
+Integral component of endoplasmic reticulum membrane
+Endocardium
+Mitochondrion inner membrane (Potential)
+Host endomembrane system
+RNA polymerase II transcription repressor complex
+Transcription repressor complex
+Clathrin-sculpted monoamine transport vesicle membrane
+Plastoglobule
+Laminin-1 complex
+Photoreceptor outer segment membrane
+Dense core granule lumen
+Epithelial lining fluid
+Co-localizes with TBX4 and TBX5 to actin filaments (By similarity)
+G protein-coupled receptor heterodimeric complex
+Cellular anatomical entity
+Notch 1 intracellular domain:Nucleus
+Brain
+Apical cortex
+Respirasome
+Cyanelle stroma
+Postsynaptic specialization membrane
+Postsynaptic cell membrane
+SMN complex
+Lipopolysaccharide receptor complex
+Eukaryotic cell
+Synaptic vesicle membrane
+Nucleoplasmic side
+Synaptic vesicle
+Brain Plaques
+Note=Nuclear in S-phase cells and cytoplasmic
+Pyramidal Cell
+Zymogen granule membrane
+Plasma membrane region
+Cytosolic large ribosomal subunit
+Pseudopodium membrane
+Cul3-RING ubiquitin ligase complex
+GABA-ergic synapse
+Single-pass membrane protein (Potential)
+Cell body membrane
+Endomembrane system
+Endolysosome lumen
+Cellular thylakoid lumen
+SUMO activating enzyme complex
+Pericellular basket
+Catalytic step 2 spliceosome
+Mitochondrial ribosome
+Nucleomorph
+Periplasm
+Parathyroid gland
+Extracellular matrix
+6-phosphofructo-2-kinase/fructose-2,6-biphosphatase complex
+Host nucleus outer membrane
+Complement component C1 complex
+Core-binding factor complex
+Phosphopyruvate hydratase complex
+Adrenal cortex
+Golgi transport complex
+Polycystin complex
+N-acetylglucosamine-1-phosphotransferase subunit beta:Golgi apparatus membrane
+Microvesicle
+Colon
+Clathrin-sculpted glutamate transport vesicle membrane
+All Tissues
+Neuromuscular junction
+Transcription factor TFTC complex
+Isoform 4:Nucleus
+Guanyl-nucleotide exchange factor complex
+Translation initiation ternary complex
+Glutamyl-tRNA(Gln) amidotransferase complex
+Annulate lamellae
+THO complex part of transcription export complex
+Procentriole replication complex
+1-alkyl-2-acetylglycerophosphocholine esterase complex
+Placenta
+Terminal web
+Cytoplasmic side of membrane
+DNA recombinase complex
+Renal filtrate
+Dolichol-phosphate-mannose synthase complex
+Amphisome
+Amacrine cell
+Isoform 2:Peroxisome (Potential)
+Mitochondrion outer membrane
+Plastid intermembrane space
+Trans-Golgi network transport vesicle
+Fibroblasts
+Schwann cell microvillus
+Activin responsive factor complex
+Granulosa lutein cell
+Tissue and substructures
+Cerebellar Golgi cell to granule cell synapse
+Oligodendrocyte
+Kinesin complex
+Vesicle
+NLRP3 inflammasome complex
+Juxtaglomerular cell
+Endosome
+Apical lamina
+TRAF2-GSTP1 complex
+Isoform 2:Endoplasmic reticulum membrane (Probable)
+Mitotic spindle midzone
+Pancreas
+VCB complex
+Late endosome
+Perikaryon
+Leukocyte
+Actin filament bundle
+BLOC-1 complex
+Rete testis fluid
+ANPR-A receptor complex
+Single-pass membrane protein (Probable)
+Presynapse
+Host phagosome
+Cone cell pedicle
+Integral component of endosome membrane
+IgE immunoglobulin complex
+Box H/ACA scaRNP complex
+Perinuclear endoplasmic reticulum
+Isoform 9:Cytoplasm
+Isoform 2:Secreted (Probable)
+Endoplasmic reticulum-plasma membrane contact site
+Rhoptry membrane
+Golgi trans cisterna
+ERBB3:ERBB2 complex
+Clathrin coat
+Megasporocyte nucleus
+Main axon
+Localizes to the sub-apical region adjacent to the adherens junction complex at the outer limiting membrane
+Tertiary granule lumen
+Paranodal septate junction
+Cardiac Troponin complex
+IkappaB kinase complex
+Parasitophorous vacuole lumen
+Gas vesicle lumen
+Extrinsic component of mitochondrial outer membrane
+Joint
+Peripheral Nervous System Neuron
+Epsilon Cell
+Apoptosome
+Extrinsic component of vacuolar membrane
+COPII-coated vesicle membrane
+Polysome
+Clathrin coat of coated pit
+Dendritic shaft
+Secretory vesicle membrane
+Neuron to neuron synapse
+Photoreceptor disc membrane
+Spermatic Cord
+Endoplasmic reticulum lumen (Probable)
+Cytoplasmic dynein complex
+Varicosity
+Mature chylomicron
+Acidocalcisome membrane
+Synaptobrevin 2-SNAP-25-syntaxin-1a complex
+Host cell outer membrane
+Note=Predominantly located at podocyte slit diaphragm between podocyte foot processes
+Cornified envelope
+Ruffle membrane
+Synaptobrevin 2-SNAP-25-syntaxin-1a-complexin I complex
+Serous cell
+Perineuronal net
+Aorta
+Interstitial matrix
+COPI-coated vesicle
+Discoidal high-density lipoprotein particle
+Endolysosome membrane
+Extracellular side (Potential)
+Endosomal membrane
+Thymus gland
+Processed form:Secreted protein (By similarity)
+Erythroleukemia
+Immune system
+Cerebrospinal Fluid (CSF)
+IgD immunoglobulin complex
+Apical cell membrane
+Transcription export complex 2
+Basket cell
+Pregnancy serum form:Secreted
+Transcription elongation factor complex
+Artery
+Phospholipid-translocating ATPase complex
+Hyalocyte
+Nail
+Amylin receptor complex 3
+Presynaptic endocytic zone membrane
+Target cell membrane
+Submandibular gland
+Parathyroid Chief cell
+Atg1/ULK1 kinase complex
+Mitochondrial alpha-ketoglutarate dehydrogenase complex
+Nuclear chain cell
+Extracellular exosome
+Note=Granules of large granular lymphocytes
+Chromaffin granule membrane
+U2 snRNP
+Host cellular thylakoid
+Set3 complex
+Lymphoblast
+Dendritic growth cone
+Isoform 4:Cytoplasm
+Heteromeric SMAD protein complex
+Host endoplasmic reticulum-Golgi intermediate compartment membrane
+Cervical
+Host cis-Golgi network membrane
+Cytoplasmic exosome (RNase complex)
+Lymphatic vessel
+Natural killer T cell
+Glycinergic synapse
+Histone deacetylase complex
+Nucleolus
+Perinuclear region
+Matrix side (Potential)
+Tissue fluid
+Histone methyltransferase complex
+Gray matter
+Pyruvate dehydrogenase (lipoamide) phosphatase complex
+Early endosome membrane
+Epithelium
+Retromer, cargo-selective complex
+Small amount are found in the nucleus
+Excitatory synapse
+Blood vessel
+60S ribosomal protein L40:Cytoplasm
+Equivalent to the apical surface
+Pi-body
+Acidocalcisome lumen
+Striated muscle myosin thick filament
+Golgi apparatus
+Cochlear hair cell ribbon synapse
+Transforming growth factor beta ligand-receptor complex
+Isoform Long:Cell membrane
+Breast
+Dendritic spine
+Cation-transporting ATPase complex
+Postsynapse
+Golgi cell
+Secreted (Potential)
+RDNA heterochromatin
+Male pronucleus
+RISC-loading complex
+Flotillin complex
+Chromosome, centromeric core domain
+Serine-type peptidase complex
+Organelle membrane contact site
+Eukaryotic translation initiation factor 4F complex
+Spindle neuron
+Renal Cortex
+P-TEFb complex
+T cell receptor complex
+Z-disk
+Nuclear membrane
+Host Golgi apparatus
+Host cell membrane
+Toll-like receptor 1-Toll-like receptor 2 protein complex
+Theca Interna cell
+Cdc73/Paf1 complex
+Cartilage
+Cul2-RING ubiquitin ligase complex
+Contractile fiber
+Anchored component of synaptic membrane
+Extrinsic component of neuronal dense core vesicle membrane
+Isoamylase complex
+Telomere
+Sperm mitochondrial sheath
+Bud neck
+Azurophil granule lumen
+Processed macrophage colony-stimulating factor 1:Secreted
+Isoforms 2 and 4 are secreted in some cell types
+Tumor necrosis factor ligand superfamily member 11
+Cytolytic granule
+Insulin-responsive compartment
+Membrane (Probable)
+Actin filament
+Dendrite membrane
+Processed cyclic AMP-responsive element- binding protein 3-like protein 2:Nucleus
+Extrinsic component of endosome membrane
+Collagen type I trimer
+Proton-transporting ATP synthase complex, coupling factor F(o)
+Nuclear RNA-directed RNA polymerase complex
+Integral component of presynaptic active zone membrane
+Endocrine gland
+White skeletal muscle cell
+Endoplasmic reticulum tubular network
+Gastrointestinal Tract
+Nucleus speckle
+Rod photoreceptor outer segment
+Mast cell
+Ascus epiplasm
+Cytoplasm (Potential)
+Mitotic spindle microtubule
+Spindle midzone
+Postsynaptic membrane
+IRF3 interaction with CREBBP prevents its export to the cytoplasm
+Single-pass type III membrane protein
+Lamellar body membrane
+Protein storage vacuole membrane
+Compact myelin
+Ribonucleoside-diphosphate reductase complex
+Host plasmodesma
+Pseudopodium tip
+Outer mitochondrial membrane protein complex
+Sperm annulus
+Multi-eIF complex
+Extracellular space
+GPI-anchor
+Fibrinogen complex
+Sperm midpiece
+Golgi cis cisterna
+Epithelial Cell
+Glucosidase II complex
+Host endosome
+Lamellipodium
+Site of double-strand break
+Gas vesicle
+Isoform 4:Membrane
+Preribosome, large subunit precursor
+Lens
+Organellar chromatophore membrane
+Z line
+Microtubule minus-end
+Nucleus pulposus cell
+Cell cortex
+MRNA editing complex
+IMR-90 Cells (Fetal Lung Diploid Fibroblasts)
+Galectin complex
+Integral component of Golgi membrane
+Thylakoid
+Endoplasmic reticulum-Golgi intermediate compartment lumen
+Osteoblast
+Secretory granule
+Dense core granule membrane
+Isoform Gamma:Cytoplasm
+Digestive system
+Postsynaptic Golgi apparatus
+Host filopodium
+Plasma membrane raft
+Stem cell
+Localized mainly in the Schmidt-Lanterman incisures of myelinating Schwann cells
+Kidney
+Neuron projection
+Cytoplasmic side of lysosomal membrane
+Ribonucleoprotein granule
+Note=A secreted form also exists
+Single-pass type II membrane protein
+Integrin alpha4-beta7 complex
+CENP-A containing nucleosome
+MLL1 complex
+Host rough endoplasmic reticulum
+Smooth endoplasmic reticulum lumen
+Spherical high-density lipoprotein particle
+AIM2 inflammasome complex
+Host glyoxysome
+RPAP3/R2TP/prefoldin-like complex
+MCM complex
+Note=This protein shuttles between lysosomes
+Mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)
+Late endosome membrane
+Sarcolemma
+Specific granule lumen
+Note=Associates with chromatin
+Chromoplast stroma
+RNA-directed RNA polymerase:Host endoplasmic reticulum membrane
+Mesaxon
+Spliceosomal complex
+Host cytoplasmic vesicle membrane
+Isoform 3:Secreted (Probable)
+Box C/D RNP complex
+Epididymal duct fluid
+Recycling endosome membrane
+Protein phosphatase 4 complex
+Neuronal dense core vesicle membrane
+Growth cone lamellipodium
+Short peptide from AAT:Secreted
+Theca lutein cell
+Seminiferous tubule fluid
+Organellar chromatophore thylakoid membrane
+Peripheral membrane protein (By similarity)
+Reticulocyte
+Serine protease inhibitor complex
+Lateral wall of outer hair cell
+Golgi outpost
+Cytoplasmic ribonucleoprotein granule
+Anchored component of plasma membrane
+Cytosol
+Site of DNA damage
+Capsid protein:Virion
+Note=Cytoplasmic under conditions of serum deprivation
+Peroxisome (Potential)
+Cell projection membrane
+Cortical cytoskeleton
+Isoform 4:Secreted
+Purkinje Cell
+Transcription factor AP-1 complex
+Peptidase inhibitor complex
+Photoreceptor inner segment membrane
+Pancreatic Stellate Cell
+Telomere (Potential)
+Secretory vesicle lumen
+Stromal side
+Isoform PACE4B:Secreted
+Cytoplasmic membrane
+Integrin alpha2-beta1 complex
+Mitochondrion matrix (Potential)
+Granulocytes
+Magnetosome
+Cholinergic synapse
+All cells and tissues
+Skeletal muscle
+Single-pass type IV membrane protein
+CCR4-NOT complex
+Protein farnesyltransferase complex
+COPII-coated vesicle lumen
+Axon cytoplasm
+Stomach
+Protoplasm
+Photoreceptor outer segment
+Ameloblast
+Acrosome
+Hyaluranon cable
+Integral component of endoplasmic reticulum-Golgi intermediate compartment (ERGIC) membrane
+Serine C-palmitoyltransferase complex
+Synaptic vesicle lumen
+Synaptic cell membrane
+Eukaryotic 43S preinitiation complex
+Etioplast membrane
+Nuclear ubiquitin ligase complex
+Basal part of cell
+Pituitary gland
+Host smooth endoplasmic reticulum membrane
+Mitochondrial large ribosomal subunit
+Extracellular side
+Cvt vesicle lumen
+Host mitochondrion envelope
+Ciliary transition fiber
+Leucyl-cystinyl aminopeptidase
+Spindle
+Host cytoskeleton
+Unconventional myosin complex
+Brush border
+Renal Medulla
+Stereocilium tip
+Axon hillock
+Sin3 complex
+Exocyst
+Dendritic filopodium
+Processed cyclic AMP-responsive element- binding protein 3-like protein 1:Nucleus
+NuRD complex
+Plastid stroma
+Tegument
+Extrinsic component of endoplasmic reticulum membrane
+TERT-RMRP complex
+Nuclear RNA export factor complex
+Isoform 5:Cytoplasmic vesicle
+Transcription factor TFIIF complex
+Prostate Fluid
+Peripheral membrane protein
+Parafollicular cell
+Cytoplasmic microtubule
+Bacterial flagellum
+Cytoplasmic granule membrane
+Golgi-associated vesicle membrane
+Striated muscle thin filament
+Postsynaptic density, intracellular component
+Organ and components
+Cyclin-dependent protein kinase holoenzyme complex
+Pineal gland
+Acrosome lumen
+Isoform PSMA':Cytoplasm
+Porosome
+Late endosomal membrane
+Ciliary base
+COP9 signalosome
+Clathrin-coated pit
+Isoform 2:Lysosome membrane
+Plastid nucleoid
+Blood
+Isoform II:Secreted
+Calcineurin complex
+Polytene chromosome
+Processed cyclic AMP-responsive element- binding protein 3:Nucleus
+Suppressor T cell
+Lysosome lumen
+SU:Cell membrane
+Migrates to the nucleus when complexed with SMAD4
+Vacuolar membrane
+Nucleotide-excision repair factor 3 complex
+Vacuole lumen
+Plastid
+Nuclear cyclin-dependent protein kinase holoenzyme complex
+GAIT complex
+Basal cortex
+Isoform 2:Golgi apparatus
+Cell membrane
+Vacuole
+With export being the prevailing effect
+Secreted (Probable)
+F-actin capping protein complex
+Unipolar brush cell
+Nuclear pore central transport channel
+Cyclin E1-CDK2 complex
+C-fiber
+Nephron
+Fimbrium
+Troponin complex
+Coated vesicle
+Translation release factor complex
+Homomeric SMAD protein complex
+Mesangial cell
+Isoform 1:Endoplasmic reticulum membrane
+Endoplasmic reticulum membrane
+Phenylalanine-tRNA ligase complex
+Exocrine Cell
+Perilymph
+PAR polarity complex
+SCAR complex
+Small nuclear ribonucleoprotein complex
+Soluble form:Secreted
+Cyanelle outer membrane
+While a minority of the complex is associated with chromatin
+Septin ring
+Archaeal flagellum
+Cajal body
+Extrinsic component of plasma membrane
+Telomerase holoenzyme complex
+Symmetric synapse
+RNA-directed RNA polymerase 3D-POL:Host cytoplasmic vesicle membrane
+Host caveola
+Midbody
+Isoform 3:Secreted
+Blood microparticle
+Isoform 3:Cell membrane
+Red blood cell
+Nucleoid
+Mitochondrial respiratory chain complex IV
+Cation channel complex
+Potassium channel complex
+Neuron projection terminus
+Mediator complex
+Microneme lumen
+Isoform p13II:Host mitochondrion inner membrane
+IgM immunoglobulin complex
+P granule
+Invadopodium membrane
+Neutrophil
+Iron-sulfur cluster assembly complex
+Bacterial extracellular vesicle
+Note=In the photoreceptor cells
+Integral component of membrane
+Integral component of postsynaptic density membrane
+Catalytic complex
+Optic Nerve
+Integumentary system
+Myoepithelial cell
+Axonal spine
+Glyoxysome
+T-tubule
+Adiposome
+Proton-transporting ATP synthase complex, catalytic core F(1)
+Elongator holoenzyme complex
+Somatodendritic compartment
+Phagosome
+Non-motile cilium
+COPI-coated vesicle lumen
+Subcellular
+Cerumen
+Flagellar pocket
+Photoreceptor connecting cilium
+G protein-coupled GABA receptor complex
+Note=Interaction with NEDD4L or RNF111 induces translocation from the nucleus to the cytoplasm
+Chromosomal region
+External side of plasma membrane
+1 states it localizes to the nucleus
+Golgi apparatus lumen (Probable)
+Isoform 2:Cytoplasm
+Etioplast
+Endoplasmic reticulum-golgi intermediate compartment
+Vitreous humor
+Intracellular organelle
+Embryonic cell
+Granule cell
+Larynx
+Endosomes
+Exocrine system
+Host Golgi apparatus membrane
+Polar microtubule
+Kainate selective glutamate receptor complex
+Sarcoplasmic reticulum membrane
+Parotid gland
+DNA ligase IV complex
+Found in the canalicular membrane
+Plastid envelope
+Respiratory chain complex IV
+Endopeptidase Clp complex
+Bleb
+Endoplasmic reticulum lumen
+Periplasmic flagellum
+Lumenal side
+Phosphatidylinositol 3-kinase complex
+Gingiva
+Lamellipodium membrane
+Ubiquitin ligase complex
+Clathrin-coated endocytic vesicle membrane
+Muscle thin filament tropomyosin
+GPI-like-anchor
+Serotonin-activated cation-selective channel complex
+Perisynaptic space
+AP-1 adaptor complex
+Intrinsic component of endoplasmic reticulum membrane
+Nervous system
+Natural killer cell
+Enhancer of filamentation 1 p55:Cytoplasm
+Intracellular non-membrane-bounded organelle
+NLRP6 inflammasome complex
+Euchromatin
+Single-pass type II membrane protein (Potential)
+Trichocyte
+Activin receptor complex
+Isoform Alpha II:Cytoplasm
+UDP-N-acetylglucosamine transferase complex
+Secreted protein
+Cerebral Cortex
+Esterosome membrane
+Microvillus
+Cerebrospinal fluid
+MHC class II protein complex
+Inner membrane complex
+Gingival fluid
+SREBP-SCAP-Insig complex
+The majority of the condensin complex is found in the cytoplasm
+Intracellular cyclic nucleotide activated cation channel complex
+Cortical endoplasmic reticulum
+Nuclear envelope
+Hyaline layer
+Single-pass type I membrane protein (Probable)
+Mitosome intermembrane space
+NatB complex
+Note=Associated with tubular structures and in discrete nuclear dots resembling ND10 nuclear bodies
+Nucleus membrane
+Nucleus membrane (Potential)
+Bile Duct
+U1 snRNP
+Photoreceptor cone cell
+Nucleus-vacuole junction
+Voltage-gated potassium channel complex
+RNA polymerase II, holoenzyme
+Highly enriched in postsynaptic densities (PSD)
+Attachment organelle membrane
+Processed isoform 1:Secreted protein
+During mitosis
+TRNA (m1A) methyltransferase complex
+Localized to punctae on dendrites of hippocampal neurons and colocalizes with the synaptic marker DLG4
+Terminal bouton
+DNA repair complex
+Fallopian tube
+Parasitophorous vacuole
+Cytoplasmic cyclin-dependent protein kinase holoenzyme complex
+Ubiquitin conjugating enzyme complex
+Intravirionic side
+Nuclear body
+Chromatoid body
+Note=Localizes to late endocytic compartment
+Stereocilium shaft
+Axonal growth cone
+Vacuolar proton-transporting V-type ATPase complex
+Cytoplasmic side (Probable)
+Growth cone
+Macrophage
+Distal dendrite
+Schwann cell
+Spanning component of membrane
+Processed exostosin-like 2:Secreted
+Skin
+Tight junction
+Host late endosome membrane
+Perimysium
+CSF1-CSF1R complex
+Chromatin
+Cytoplasmic side (Potential)
+L-type voltage-gated calcium channel complex
+Endosome membrane
+Integral component of nuclear inner membrane
+Host synaptic vesicle
+Isoform PDE9A17:Cytoplasm
+Host cell projection
+PAS complex
+Synaptosome (Potential)
+HSP90-CDC37 chaperone complex
+Cell wall
+Nucleoplasm
+Peripheral membrane protein (Probable)
+NSL complex
+Midbody ring
+Retina
+WND/140 kDa:Mitochondrion
+Colocalizes with TPM2 near the Z line in muscle
+Spleen
+Epididymis
+Isoform 2:Secreted
+Derlin-1-VIMP complex
+Messenger ribonucleoprotein complex
+Cullin-RING ubiquitin ligase complex
+Integral component of mitochondrial inner membrane
+BRCA1-B complex
+Temporal Lobe
+S-layer
+Protein p22:Host membrane
+Bone marrow
+ATF4-CREB1 transcription factor complex
+Histone H3-K14 acetyltransferase complex
+Mitochondrial respiratory chain complex I
+Secretory granule lumen
+Melanosome
+Endomembrane system (Probable)
+Glyoxysome matrix
+name
+Extrinsic component of postsynaptic specialization membrane
+Martinotti cell
+Serotonergic synapse
+Reproductive system
+FAR/SIN/STRIPAK complex
+Cytoplasmic granule
+Calcium-activated chloride channel regulator 2
+5-diphosphate (PtdInsP2) 3-kinase
+Epsilon DNA polymerase complex
+Virion (Potential)
+Gas vesicle membrane
+Extrinsic component of membrane
+Forespore inner membrane
+Prospore membrane
+Death-inducing signaling complex
+Rpd3L-Expanded complex
+Dendritic spine membrane
+TRNA-splicing ligase complex
+Cyclin/CDK positive transcription elongation factor complex
+Gum
+Keratohyalin granule
+CRD-mediated mRNA stability complex
+Acrosome outer membrane
+ERCC4-ERCC1 complex
+Late endosome lumen
+Apicoplast
+H zone
+Integral component of lysosomal membrane
+Serine-type endopeptidase complex
+Mitochondrial fatty acid beta-oxidation multienzyme complex
+Plastid inner membrane
+Glutamatergic synapse
+Condensed nuclear chromosome
+Golgi to plasma membrane transport vesicle
+Endothelial tissue
+Peripheral region of growth cone
+Isoform A:Cytoplasm
+Postsynaptic specialization of symmetric synapse
+Organellar chromatophore inner membrane
+MHC class I peptide loading complex
+Inner mitochondrial membrane protein complex
+Bud tip
+NuA4 histone acetyltransferase complex
+Host endosome membrane
+Oxidoreductase complex
+XY body
+M-alpha:Secreted
+Mitochondrion matrix
+Note=Shows a vesicular localization corresponding partially to the endoplasmic reticulum in several epithelial cell lines
+Cul4-RING E3 ubiquitin ligase complex
+Membrane proteins
+Isoform 10:Secreted (Potential)
+Integral component of presynaptic membrane
+Intracellular membrane
+Spore coat
+Nucleotide-activated protein kinase complex
+Signal peptidase complex
+Peribacteroid space
+Cyanelle thylakoid
+Oligosaccharyltransferase I complex
+Oogonium
+Host cellular thylakoid membrane
+Autophagosome membrane
+Transcription preinitiation complex
+Type III intermediate filament
+Rough endoplasmic reticulum
+Alphav-beta3 integrin-IGF-1-IGF1R complex
+Serine-pyruvate aminotransferase complex
+Cytoskeleton of presynaptic active zone
+CAAX-protein geranylgeranyltransferase complex
+MLL cleavage product C180:Nucleus
+White blood cell
+Pentameric IgM immunoglobulin complex
+Clathrin-coated endocytic vesicle
+Feces
+Zymogen granule
+Postsynaptic early endosome membrane
+Cleavage body
+Multi-pass membrane protein
+Alveolus
+Ear
+Matrix side of mitochondrial inner membrane
+Lateral cell membrane
+Isoform 2:Peroxisome matrix
+Omegasome
+Lysosome (Potential)
+Cell periphery
+Restricted to the apical surface
+CD40 ligand
+Vas deferens
+Isoform 5:Cytoplasm
+Isoform Beta-4:Cytoplasm
+Cyanelle inner membrane
+Forespore outer membrane
+Mucus
+Costamere
+Single-pass type IV membrane protein (Probable)
+Activated T-Lymphocytes
+Alpha-dystroglycan:Secreted protein
+Astrocyte projection
+Integral component of neuronal dense core vesicle membrane
+4-aminobutyrate transaminase complex
+Allowing chromosome separation
+Extracellular vesicle
+Succinate-CoA ligase complex
+Nuclear replication fork
+Symbiosome
+Postsynaptic endocytic zone membrane
+Brain stem
+Myelin sheath abaxonal region
+Protein kinase 5 complex
+Eukaryotic translation initiation factor 2B complex
+Lipid droplet (Potential)
+Nervous tissue
+Autolysosome
+Anammoxosome
+Nematocyst
+Astrocyte
+Non-structural protein 4B:Host membrane
+Internode region of axon
+Myofibril
+Dentate gyrus mossy fiber
+Host early endosome membrane
+WI-38 Cells (Fetal Lung Diploid Fibroblasts)
+Apical pole of neuron
+Exocytic vesicle
+Intrinsic component of external side of plasma membrane
+Actin cap
+Keratin filament
+9+0 motile cilium
+Intercellular bridge
+Mouth
+GET complex
+Uropodium
+TORC1 complex
+Stratum Corneum
+Alphav-beta3 integrin-HMGB1 complex
+Eosinophil
+Brown fat cell
+Cytoskeleton (Potential)
+Host periplasm
+Spermatogonium
+Clathrin-coated vesicle membrane
+Postsynaptic density
+Single-pass type IV membrane protein (Potential)
+Swr1 complex
+Germinal vesicle
+Fatty acid elongase complex
+Ectoplasm
+Mainly localized in the inner and base of outer segments as well as in the synaptic ending region
+U2-type catalytic step 1 spliceosome
+Follicular fluid
+Proteasome complex
+Organellar chromatophore stroma
+Reticular fiber
+G protein-coupled receptor homodimeric complex
+Phagolysosome
+Proton-transporting V-type ATPase complex
+Cul4B-RING E3 ubiquitin ligase complex
+Postsynaptic specialization, intracellular component
+Male germ cell nucleus
+Syntrophin complex
+Molybdopterin synthase complex
+Cell tip
+Auditory hair cell
+Caveola
+Hydrogenosome lumen
+And the plasma membrane
+Hypothalamus
+Intracellular vesicle
+Beta-N-acetylhexosaminidase complex
+Uterus
+MPP7-DLG1-LIN7 complex
+Smooth muscle contractile fiber
+Presynaptic cytosol
+Ion channel complex
+Trans-golgi network
+Isoform 5:Endoplasmic reticulum
+Ciliary transition zone
+Nucleotide-excision repair factor 1 complex
+Stress fiber
+It is cleaved by ESPL1
+Plastid thylakoid lumen
+DAPK1-calmodulin complex
+U4 snRNP
+Association to the tight junctions depends on CXADR
+Amyloplast inner membrane
+Stereocilium membrane
+Cytoplasmic side of mitochondrial outer membrane
+DNA polymerase III complex
+Sciatic Nerve
+Glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex
+Inclusion body
+CD97 antigen subunit alpha:Secreted
+Barrier septum
+DNA-dependent protein kinase-DNA ligase 4 complex
+Microtubule
+Nucleus matrix
+Mitochondrion
+Apical part of cell
+Organellar chromatophore thylakoid
+Diaphragm
+Flagellum
+Ciliary tip
+Cell leading edge
+Lymph
+Before prophase it is scattered along chromosome arms
+TORC2 complex
+Caudate Nucleus
+Mitochondrial pyruvate dehydrogenase complex
+Alpha DNA polymerase:primase complex
+Spanning component of plasma membrane
+Prostate Tissue
+Host lipid droplet
+Spine apparatus
+Vagina
+Mitochondrial processing peptidase complex
+Nucleoli
+Taste Receptor Cell
+Isoform 12:Secreted (Probable)
+Ubiquitin:Cytoplasm
+Muscle myosin complex
+Saliva
+Mitosome membrane
+Beta-dystroglycan:Cell membrane
+Mitochondrial respiratory chain complex III
+Phagocytic cup
+Plastid thylakoid
+Host thylakoid
+Flagellum basal body
+CLOCK-BMAL transcription complex
+Mitochondrial proton-transporting ATP synthase, stator stalk
+Pericentric heterochromatin
+Sperm connecting piece
+Klotho peptide:Secreted
+Zymogen granule lumen
+IgA immunoglobulin complex
+Anaphase-promoting complex
+Note=Shuttles between cytoplasmic and nuclear compartments
+Cytoplasm
+Dendritic spine neck
+Gland
+Lumenal side of membrane
+U2-type prespliceosome
+Magnocellular neurosecretory cell
+Perinucleolar compartment
+The regulatory subunits of the complex are phosphorylated by CDC2
+Cerebellum
+Prospore
+Uridylate-specific endoribonuclease:Host cytoplasm
+Host presynaptic cell membrane
+THO complex
+Isoform 1:Secreted
+Dendritic branch
+Periplasmic side
+Cell division site
+Beta Cell
+Anchored component of external side of plasma membrane
+Single-pass type I membrane protein
+Lymphoid connective tissue
+Primary dendrite
+Kinociliary basal body
+Lysosomal membrane
+PRC1 complex
+Neuron spine
+Note=Packaged within secretory vesicles
+Mitosome
+Olfactory receptor neuron
+Sorting endosome
+Catalase complex
+Aqueous humor
+Growth cone membrane
+Protein phosphatase type 1 complex
+Endosome lumen
+Guanylate cyclase complex, soluble
+Sperm principal piece
+Chromaffin Granule
+Host late endosome
+Follicular cell
+Cytoplasmic side
+Note=Also exists as a secreted soluble form (isoform 1 only) (By similarity)
+Amylin receptor complex 1
+Intestine
+Junctional membrane complex
+Trans-golgi network membrane
+Perinuclear theca
+Basal dendrite
+Sperm plasma membrane
+Note=Membrane protein of caveolae
+Apical dendrite

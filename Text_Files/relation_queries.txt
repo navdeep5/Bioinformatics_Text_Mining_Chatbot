@@ -1,0 +1,25 @@
+Ids:
+	- biomarker
+	- compound
+	- ontology
+	- disposition
+
+
+Triplet:
+ - (compound_id, caused, health_effect_id) [based on health_effect_relation]
+	- Need compound and health_effect for ids --> name
+ - (compound_id, involved in, process_id) [based on process_relation]
+	- Need compound and process for ids --> name
+ - (compound_id, has role of, role_id) [based on role_relation]
+	- Need compound and role for ids --> name
+ - (compound_id, biolocation is, disposition_id) [based on disposition_relation]
+	- Need compound and disposition for ids --> name
+
+ - (compound_id, exposed through, exposure_route_id) [based on exposure_route_relation]
+	- Need compound and exposure_route for ids --> name
+ - (compound_id, sourced through, food_id) [based on food_relation]
+	- Need compound and food for ids --> name
+
+
+ - (compound_id, has sensory organ effect, organoleptic_effect_id) [based on organoleptic_effect_relation]
+	- Need compound and organoleptic_effect for ids --> name
