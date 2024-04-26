@@ -48,4 +48,6 @@ Bonus Precision and Recall F1 Score:
   Maximum: 1.0
   Standard Deviation: 0.36248796792903715
 
+False Positive Percentage: 23.39921947800099
+
 Total Length: 70

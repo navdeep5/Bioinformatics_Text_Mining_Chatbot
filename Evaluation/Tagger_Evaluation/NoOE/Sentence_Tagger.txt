@@ -1,0 +1,19 @@
+Precision:
+  Average: 0.8668817124426685
+  Minimum: 0.46875
+  Maximum: 1.0
+  Standard Deviation: 0.1569497937119508
+
+Recall:
+  Average: 0.7616412087880877
+  Minimum: 0.3333333333333333
+  Maximum: 1.0
+  Standard Deviation: 0.21372404929661296
+
+F1-score:
+  Average: 0.8029546499675396
+  Minimum: 0.4347826086956522
+  Maximum: 1.0
+  Standard Deviation: 0.1842756859383705
+
+Total Length: 50

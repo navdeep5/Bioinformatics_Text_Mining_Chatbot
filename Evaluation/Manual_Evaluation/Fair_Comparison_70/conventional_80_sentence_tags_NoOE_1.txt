@@ -25,22 +25,22 @@ Jaro-Winkler Similarity:
 --------------------
 
 Bonus Precision:
-  Average: 0.44831649831649834
+  Average: 0.39984984984984984
   Minimum: 0.0
   Maximum: 1.0
-  Standard Deviation: 0.4636042390617546
+  Standard Deviation: 0.4594265086616195
 
 Bonus Recall:
-  Average: 0.3087995337995338
+  Average: 0.2754158004158004
   Minimum: 0.0
   Maximum: 2.0
-  Standard Deviation: 0.4262032711007221
+  Standard Deviation: 0.41377032462130786
 
 Bonus F1-score:
-  Average: 0.3083360662906118
+  Average: 0.2750024375024375
   Minimum: 0.0
   Maximum: 1.2
-  Standard Deviation: 0.34821559266484253
+  Standard Deviation: 0.342508944265612
 
 Bonus Precision and Recall F1 Score:
   Average: 0.0
@@ -48,4 +48,6 @@ Bonus Precision and Recall F1 Score:
   Maximum: 0.0
   Standard Deviation: 0.0
 
-Total Length: 66
+False Positive Percentage: 55.168350168350166
+
+Total Length: 74

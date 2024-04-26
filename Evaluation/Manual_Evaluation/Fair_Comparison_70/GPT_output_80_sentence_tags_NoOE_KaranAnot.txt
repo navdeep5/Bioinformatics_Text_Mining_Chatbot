@@ -1,0 +1,53 @@
+Precision:
+  Average: 0.2910103785103785
+  Minimum: 0.0
+  Maximum: 1.0
+  Standard Deviation: 0.3912610790376841
+
+Recall:
+  Average: 0.28435005165774396
+  Minimum: 0.0
+  Maximum: 1.0
+  Standard Deviation: 0.3937461112677906
+
+F1-score:
+  Average: 0.2561244404867887
+  Minimum: 0.0
+  Maximum: 1.0
+  Standard Deviation: 0.34089411001136294
+
+Jaro-Winkler Similarity:
+  Average: 0.3698031391242498
+  Minimum: 0.0
+  Maximum: 1.0
+  Standard Deviation: 0.4407201909161792
+
+--------------------
+
+Bonus Precision:
+  Average: 0.5760102363971341
+  Minimum: 0.0
+  Maximum: 1.0
+  Standard Deviation: 0.41179193933299285
+
+Bonus Recall:
+  Average: 2.165661688738612
+  Minimum: 0.0
+  Maximum: 12.0
+  Standard Deviation: 2.3018484989525296
+
+Bonus F1-score:
+  Average: 0.8638083024760743
+  Minimum: 0.0
+  Maximum: 1.8461538461538463
+  Standard Deviation: 0.6383853022048159
+
+Bonus Precision and Recall F1 Score:
+  Average: 0.28856071273007045
+  Minimum: 0.0
+  Maximum: 1.0
+  Standard Deviation: 0.37428867212836864
+
+False Positive Percentage: 24.387430801462205
+
+Total Length: 70
