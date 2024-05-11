@@ -49,7 +49,7 @@ def retry_request(func, max_retries=5, delay=1):
 
 def main(data_path, output_path):
     # Get Groq API key
-    groq_api_key = "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"
+    groq_api_key = INSERT_API_KEY
     
     # Initialize Groq Langchain chat object and conversation
     groq_chat = ChatGroq(
