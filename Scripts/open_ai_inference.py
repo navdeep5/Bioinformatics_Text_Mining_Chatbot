@@ -4,7 +4,7 @@ from os import getenv
 # gets API Key from environment variable OPENAI_API_KEY
 client = OpenAI(
   base_url="https://openrouter.ai/api/v1",
-  api_key="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",
+  api_key=INSERT_API_KEY,
 )
 
 triplet = [["trans-2-Enoyl-OPC6-CoA", "sourced through", "Mallard duck"], ["Irbesartan derivative M2", "biolocation is", "Kidney"], ["(E)-3,7-Dimethyl-1,5,7-octatrien-3-ol", "biolocation is", "Cytoplasm"]]
