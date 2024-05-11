@@ -4,8 +4,12 @@ The **Bioinformatics Text-Mining System** is a comprehensive platform designed f
 
 ## Table of Contents
 
-- [Overview](#overview)
-- [Files](#files)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact Information](#contact-information)
 
 ## Overview
 
@@ -28,3 +32,43 @@ This system encompasses a series of processes, from data extraction to model eva
 - **Text_files**: Miscellaneous text files used within the system.
 
 This repository serves as a centralized hub for accessing and managing the diverse components of the Bioinformatics Text-Mining System, facilitating efficient data analysis and exploration in the field of bioinformatics and chemistry.
+
+## Installation
+
+1. **Clone the Repository**:
+    ```bash
+    git clone [https://github.com/your_username/bioinformatics-text-mining.git](https://github.com/navdeep5/Bioinformatics_Text_Mining_Chatbot.git)
+    ```
+
+2. **Install Dependencies**:
+    ```bash
+    pip install -r requirements.txt
+    ```
+   - Ensure you have access to Jupyter Notebooks as well as GPUs for training (A100s used in this case).
+
+## Usage
+
+To use the Bioinformatics Text-Mining System, follow these steps:
+
+1. Use [Scripts](Scripts/) to access all scripts including those used for triplet extraction and generation, abstract generation, preparing datasets, cleaning results, drawing graphs, etc.
+2. Use [Fientune](Fientune/) to access all fine-tuning scripts used in this system.
+3. Use [Manual Evaluation](Scripts/manual_evaluation.py/) to create Excel spreadsheets for you to mark, and then re-run to compute metrics.
+
+## Features
+
+- Data extraction from SQL databases
+- Abstract generation using language models
+- Model fine-tuning for enhanced information retrieval
+- Evaluation using various metrics including Precision, Recall, and F1-score
+
+## Contributing
+
+Contributions to the Bioinformatics Text-Mining System are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact Information
+
+For inquiries or collaborations, feel free to reach out via [email](mailto:navdeep5@ualberta.ca).
