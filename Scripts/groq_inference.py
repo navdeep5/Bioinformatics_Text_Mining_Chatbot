@@ -5,7 +5,7 @@ from groq import Groq
 # Create client
 client = Groq(
     # This is the default and can be omitted
-    api_key="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")
+    api_key=INSERT_API_KEY)
 
 # Create prompt
 bio_prompt = '''Context: I want you to extract semantic triples from the following paragraph.
