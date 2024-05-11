@@ -6,7 +6,7 @@ from tqdm import tqdm
 # gets API Key from environment variable OPENAI_API_KEY
 client = OpenAI(
   base_url="https://openrouter.ai/api/v1",
-  api_key="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",
+  api_key=INSERT_API_KEY,
 )
 
 # Function to generate abstracts
