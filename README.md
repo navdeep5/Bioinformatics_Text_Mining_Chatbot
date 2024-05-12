@@ -51,7 +51,7 @@ This repository serves as a centralized hub for accessing and managing the diver
 To use the Bioinformatics Text-Mining System, follow these steps:
 
 1. Use [Scripts](Scripts/) to access all scripts including those used for triplet extraction and generation, abstract generation, preparing datasets, cleaning results, drawing graphs, etc.
-2. Use [Fientune](Fientune/) to access all fine-tuning scripts used in this system.
+2. Use [Finetune](Finetune/) to access all fine-tuning scripts used in this system.
 3. Use [Manual Evaluation](Scripts/manual_evaluation.py/) to create Excel spreadsheets for you to mark, and then re-run to compute metrics.
 
 ## Features
