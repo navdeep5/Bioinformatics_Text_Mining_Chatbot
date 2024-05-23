@@ -37,7 +37,7 @@ This repository serves as a centralized hub for accessing and managing the diver
 
 1. **Clone the Repository**:
     ```bash
-    git clone [https://github.com/your_username/bioinformatics-text-mining.git](https://github.com/navdeep5/Bioinformatics_Text_Mining_Chatbot.git)
+    git clone https://github.com/navdeep5/Bioinformatics_Text_Mining_Chatbot.git
     ```
 
 2. **Install Dependencies**:
